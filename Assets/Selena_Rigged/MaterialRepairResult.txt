@@ -1,0 +1,7 @@
+Selena URP material repair completed by direct serialized material replacement.
+Shader: Universal Render Pipeline/Lit (GUID 933532a4fcc9baf4fa0491de14d08ed7)
+Textures: Body, Costume, Face, Hair from Selena v1.1.0.1
+Materials repaired: Costume, Costume.002, Hair, Material.002, Skin.001, Skin.002, Skin.003
+Face materials: alpha clipping enabled at 0.05
+Original extracted materials backup: Assets/Materials_3dsMax_Backup_20260930
+Source FBX external material GUID references were preserved.

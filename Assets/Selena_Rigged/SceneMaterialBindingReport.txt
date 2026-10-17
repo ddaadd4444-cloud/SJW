@@ -1,0 +1,27 @@
+Scene: Scene_class
+Target root: 260919_sjw_static_rig
+Source model: Assets/260919_sjw_static_rig.fbx
+Renderer count: 16
+Changed renderers: 0
+Changed material slots: 0
+
+260919_sjw_static_rig/Belt_Leg [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Body [0] Material.002 (Assets/Materials/Material.002.mat) -> Material.002 (Assets/Materials/Material.002.mat) (unchanged)
+260919_sjw_static_rig/Choker [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Face [0] Skin.001 (Assets/Materials/Skin.001.mat) -> Skin.001 (Assets/Materials/Skin.001.mat) (unchanged)
+260919_sjw_static_rig/Face [1] Skin.002 (Assets/Materials/Skin.002.mat) -> Skin.002 (Assets/Materials/Skin.002.mat) (unchanged)
+260919_sjw_static_rig/Face [2] Skin.003 (Assets/Materials/Skin.003.mat) -> Skin.003 (Assets/Materials/Skin.003.mat) (unchanged)
+260919_sjw_static_rig/Garter_Frill_LeftUpperLeg [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Garter_Ribbon_LeftUpperLeg [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Garter_Ribbon_RightUnderLeg [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Hair_Front [0] Hair (Assets/Materials/Hair.mat) -> Hair (Assets/Materials/Hair.mat) (unchanged)
+260919_sjw_static_rig/Hair_Front [1] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Rabbit_Ear [0] Hair (Assets/Materials/Hair.mat) -> Hair (Assets/Materials/Hair.mat) (unchanged)
+260919_sjw_static_rig/Rabbit_Ear [1] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Rabbit_Tail [0] Hair (Assets/Materials/Hair.mat) -> Hair (Assets/Materials/Hair.mat) (unchanged)
+260919_sjw_static_rig/Ribbon_Hair [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/SafetyShorts [0] Costume.002 (Assets/Materials/Costume.002.mat) -> Costume.002 (Assets/Materials/Costume.002.mat) (unchanged)
+260919_sjw_static_rig/Sailor [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Shoes [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Skirt [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
+260919_sjw_static_rig/Socks [0] Costume (Assets/Materials/Costume.mat) -> Costume (Assets/Materials/Costume.mat) (unchanged)
