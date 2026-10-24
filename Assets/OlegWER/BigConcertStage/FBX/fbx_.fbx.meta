@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: f22a1f7f46ddff74984ea21a3b52a87f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_288
+    second: {fileID: 2100000, guid: b2960ce332a85774bbc75c7f3daec526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_314
+    second: {fileID: 2100000, guid: 4bb5976e1621f624abaa05127aa65e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Diamond_Refraction_SM_129
+    second: {fileID: 2100000, guid: 34112e9c8c57b8a4c9ac816c8610d100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glass
+    second: {fileID: 2100000, guid: cf96a0ba5d201234f9936273898736cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_001
+    second: {fileID: 2100000, guid: f2fe170468daf7c4cb273039913e2b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_002
+    second: {fileID: 2100000, guid: b27890d6cf4b6bf45940658fa3a0c329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_003
+    second: {fileID: 2100000, guid: f954f7e45c9f339488b664564f33274d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_004
+    second: {fileID: 2100000, guid: 0c3ad1df9b2fada45863c864dafa8fe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_005
+    second: {fileID: 2100000, guid: a8e0b0b09acffe74595ef4fc0fe0e4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_006
+    second: {fileID: 2100000, guid: c6e535d7b87e0194193585314bacc634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_007
+    second: {fileID: 2100000, guid: 1a91f4d0553b9fc4ba11adbfbcfd5ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_008
+    second: {fileID: 2100000, guid: 02947c1e6d87cf847a8ddf692e69c5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_009
+    second: {fileID: 2100000, guid: da05e3b7d2a886849baa5c549ee30d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_010
+    second: {fileID: 2100000, guid: cb5ffd929b6550143a4cc5c8413fd550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_011
+    second: {fileID: 2100000, guid: ac903e7093fa9f44aa7771147f461716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_012_SM_103
+    second: {fileID: 2100000, guid: 431f6bd2fed2699488c482b574390b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_012_SM_105
+    second: {fileID: 2100000, guid: 36115901c2449f043abb634c4f20f9cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_012_SM_112
+    second: {fileID: 2100000, guid: 4ba0f049e70e1fb4f980ea4f63a4fdbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_012_SM_342
+    second: {fileID: 2100000, guid: d27d739626067784b95d56c1b98b624b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_012_SM_61
+    second: {fileID: 2100000, guid: 5099afc52302a5e4f8e4c96afd0399ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_013
+    second: {fileID: 2100000, guid: 85df7cf87ba577f4e9f433ec462caf32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_014
+    second: {fileID: 2100000, guid: 343ef56e9c1f20a449e26b854f03d8c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_015
+    second: {fileID: 2100000, guid: d932aca5bd8a29b49a7e3f1cc5a7bcd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_016
+    second: {fileID: 2100000, guid: 38e1ebbfc66a8a0489235f48c1b6ed1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_018
+    second: {fileID: 2100000, guid: 39502d4a104dfde4c881d22cf5f7dd2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_019
+    second: {fileID: 2100000, guid: 08f0a01da91e03f4e85a225ecdd9d80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_020
+    second: {fileID: 2100000, guid: 085ae441bbef4e14e9dac8b0d878479b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_021
+    second: {fileID: 2100000, guid: 6db075a2aa80e7e478d5a9293a1b006e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_022
+    second: {fileID: 2100000, guid: 4cb5e180691ae4b46a5e40ad1d9a53b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_023
+    second: {fileID: 2100000, guid: 8f60eb40d853df04895ab3a95af85f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_024
+    second: {fileID: 2100000, guid: a770db9f9dd482942a755e74bbc0c0fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_025
+    second: {fileID: 2100000, guid: 169959f128fd63543990febb9ea56811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_026
+    second: {fileID: 2100000, guid: 5c0651bca963ebf49b13143e6cd60bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_027
+    second: {fileID: 2100000, guid: 6ad90c040e06dbc418658d0a3afc82e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_028
+    second: {fileID: 2100000, guid: 35909b1fbbaed1e4a9a66787cb8b44dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_029
+    second: {fileID: 2100000, guid: bb3b5c01df3caa74b9ca3b6ac7b5f40d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_030
+    second: {fileID: 2100000, guid: 43133aec96a7cd547b98215af538fc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_031
+    second: {fileID: 2100000, guid: 30891cd20c778e64a8ddf62fff7395aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_032
+    second: {fileID: 2100000, guid: ac4dbc0dc5f95c848b57150ad3c4530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_033_SM_264
+    second: {fileID: 2100000, guid: 0cecd27e7ba10de40ba3126ab76b2ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_033_SM_267
+    second: {fileID: 2100000, guid: 7697e31d6173f5c42ba7dae1bc881ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_034
+    second: {fileID: 2100000, guid: 72e2761e76711ff4a8e706c0e860c542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_035
+    second: {fileID: 2100000, guid: 324fbea71b068cb46a2624065095cbe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_036
+    second: {fileID: 2100000, guid: 594da06f181f56d49aada8f4ab8df94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_037
+    second: {fileID: 2100000, guid: 0073320ec1569c1429e26e61d2591516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_038
+    second: {fileID: 2100000, guid: e6933c922c3eb75408ff494a76d34533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_039
+    second: {fileID: 2100000, guid: 7d75c027196e9dd47869768b1a7f86fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_040
+    second: {fileID: 2100000, guid: 3ce9b44f9ca273d4bb16aba9b1492107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_041
+    second: {fileID: 2100000, guid: 3036b56ab0801d64ea5f49d48dd1c874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_042
+    second: {fileID: 2100000, guid: 61697e702af65c04da12c1e9e68aaa49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_043
+    second: {fileID: 2100000, guid: 978e9b865dfa54e468bf586fcf4a93a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_044
+    second: {fileID: 2100000, guid: 74084c5fb0c435c4cb354ded2c6f1fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_045
+    second: {fileID: 2100000, guid: 5398536dd4bbae94780cceed7122fb3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_046
+    second: {fileID: 2100000, guid: 28d7e222ed01d134991eb0b38176bc73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_047
+    second: {fileID: 2100000, guid: 8b38dc434ca6b5941aca5aab6253e685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_048
+    second: {fileID: 2100000, guid: f60a602f7e7456346bd488c87a3ccf8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_049
+    second: {fileID: 2100000, guid: a53694b034a8bc9439371ac041f1e15c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_050
+    second: {fileID: 2100000, guid: 473c463297ee7cc4193ae3294cf9914c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_051
+    second: {fileID: 2100000, guid: 2de09d0120984fa4abf1ec8d7ae82e11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_052_SM_257
+    second: {fileID: 2100000, guid: 051d83af40d4fdf418064bf2004b378c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_052_SM_459
+    second: {fileID: 2100000, guid: f755f20af6c67094e9a23f25cd504d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_053
+    second: {fileID: 2100000, guid: cdc13df6b327cb446ae1687880b1c93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_054
+    second: {fileID: 2100000, guid: 862d1666d896e0c4ba00ed0e5297d28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_055_SM_256
+    second: {fileID: 2100000, guid: 630d7b2849083e046b8abacb13ceb6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_056
+    second: {fileID: 2100000, guid: 6e94efa0cf39b1549969b02328e1b9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_057
+    second: {fileID: 2100000, guid: b99452f19d408864fb152d2a5f3db09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_058
+    second: {fileID: 2100000, guid: 8d05152073a78ac44b1275c980ad3794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_059
+    second: {fileID: 2100000, guid: c52c9ff812d534741a6abfee15282eec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_060_SM_256
+    second: {fileID: 2100000, guid: 22efc02a35792fc469ccfe84c8c7a7c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_060_SM_402
+    second: {fileID: 2100000, guid: 0c9bd41c223a8834a917aeb424170c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_061
+    second: {fileID: 2100000, guid: 88cd543824f2fb4468022c62c0a366d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_062
+    second: {fileID: 2100000, guid: 928f6a39a48578944a471a511c361098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_063
+    second: {fileID: 2100000, guid: f32bf9bbf6c8a914494094b02eaf9d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_064
+    second: {fileID: 2100000, guid: e88965ca393c3d74d8d864b443c4aec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_065
+    second: {fileID: 2100000, guid: 009fe1a7186f20a43abf9202b8ed3edb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_066
+    second: {fileID: 2100000, guid: 9058a975aa5af3944a6bb2ab95ebb1e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_067
+    second: {fileID: 2100000, guid: d78b5be9a7dcda84e916eee7dc80e5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_068
+    second: {fileID: 2100000, guid: 7bc392d035d525a468ba7a2bc080443e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_069
+    second: {fileID: 2100000, guid: d2eee7700ff7ea94f8522ed6bca937f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_070
+    second: {fileID: 2100000, guid: 5c79a427d80249b418486b6adbe402cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_071
+    second: {fileID: 2100000, guid: 66daf23b9daeeda4286521f66533b675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_072
+    second: {fileID: 2100000, guid: d56dc12d5313e8d4b82802fae1414029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_073
+    second: {fileID: 2100000, guid: 615446fe81e05d74a978a6a94f697da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_074
+    second: {fileID: 2100000, guid: 11c4bab50c5340549b7e8a8f67b5e180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_075
+    second: {fileID: 2100000, guid: f9aa9def67c1d014c8259a20cde0054a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_076
+    second: {fileID: 2100000, guid: 67a131aee96f2ef4dac38c5adceb3d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_077
+    second: {fileID: 2100000, guid: e2bc16b47e696a64386b68aecce5bbdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_078
+    second: {fileID: 2100000, guid: 1b4f41e4f38312649b90a0a5673f3a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_079
+    second: {fileID: 2100000, guid: 01a0cc20ad0c9b244aad7374f1d3f4f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_080
+    second: {fileID: 2100000, guid: c33e5263879d6a547a8b77a56e76dd8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_081
+    second: {fileID: 2100000, guid: 4f57156cbc14abd42a6bc6f7604de397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_082
+    second: {fileID: 2100000, guid: b177992042bb3d2408f36331b15b88f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_083
+    second: {fileID: 2100000, guid: f2392f8c4947c0349ae6c20a181780a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_084
+    second: {fileID: 2100000, guid: e23191e72451b534db313c4dcac4569c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_085
+    second: {fileID: 2100000, guid: 28c44587541d33f4f8f34af294902f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_086
+    second: {fileID: 2100000, guid: 75db4fe6ed0c0114e85bba7dd51de081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_087
+    second: {fileID: 2100000, guid: 2577d37070830f744b1c26a846c7bbe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_088
+    second: {fileID: 2100000, guid: a4e4142c106851849b0a87a064bac474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_089
+    second: {fileID: 2100000, guid: cdf5a0c6b7f14a1438b73a0d4f95c8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_090
+    second: {fileID: 2100000, guid: 871c5e96f13116b4b8f20f60eef2b274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_091
+    second: {fileID: 2100000, guid: 189f4ddec6ee3c54290b41078f0b8013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_092
+    second: {fileID: 2100000, guid: 0b8b428ba15ac0841af2e814f951b11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_093
+    second: {fileID: 2100000, guid: 2d48945cc2ff30c46ac49c959402b34e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_094
+    second: {fileID: 2100000, guid: 52f44acc8f1811e489c2412bf7f8c23f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_095
+    second: {fileID: 2100000, guid: d72ff63ffdf7c054aac3a92f6f164e23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_096
+    second: {fileID: 2100000, guid: 43077dbe7f07137489a53e3c5362af6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_097
+    second: {fileID: 2100000, guid: 966cdfbf03c49834f9cf306050126a4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_098
+    second: {fileID: 2100000, guid: 4fa533472cd2345418a8290d85b4ab2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_099
+    second: {fileID: 2100000, guid: eedb05df1e82ab846bba0a6be0689555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_100
+    second: {fileID: 2100000, guid: a6c39ae4600c4c944a0331b99452ce7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_101
+    second: {fileID: 2100000, guid: 13072a67c0acb924199855d5c14aa412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_102
+    second: {fileID: 2100000, guid: e184f161df3929341a2c3836fcce1182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_103
+    second: {fileID: 2100000, guid: ad43e002940614f44a969617e2f49f0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_104
+    second: {fileID: 2100000, guid: 6f7443cfcac59fc4894f864432ee7722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_105
+    second: {fileID: 2100000, guid: 0af5f8ccc7ffb544980ecd367a5e5d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_106
+    second: {fileID: 2100000, guid: a33d1031155e5dc40992ff2e3986d144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_107
+    second: {fileID: 2100000, guid: a23446f4b715cda47989a81bb1dca649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_108
+    second: {fileID: 2100000, guid: 040dd772f8f2cc941803a7ad8019180c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_109
+    second: {fileID: 2100000, guid: 7e07a035303a4e34cb896abc8e7c9882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_110
+    second: {fileID: 2100000, guid: 06ecb68aba8ed934884170d9041eedc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_111
+    second: {fileID: 2100000, guid: a0fdd9a13d2e0e54faba207b83d98849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_112
+    second: {fileID: 2100000, guid: ce3315fbde6d8f243b538993109d5e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_113
+    second: {fileID: 2100000, guid: 2eea40f32a8113646a9297ba7e381da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_114
+    second: {fileID: 2100000, guid: e2205d4d40a143041ba8433f09b5366f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_115
+    second: {fileID: 2100000, guid: 6535595c72035144589c0a071259dfae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_116
+    second: {fileID: 2100000, guid: 6c6db4c00cf1ed142a7b8d8953a8f239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_117
+    second: {fileID: 2100000, guid: a26ca945264b62c4aadfdb57f2428f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_118
+    second: {fileID: 2100000, guid: 6fd96e3c6e549b34cb0c1f1e272018b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_119
+    second: {fileID: 2100000, guid: d042e317dd759b14dbe3bc8b94643204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_120
+    second: {fileID: 2100000, guid: 7bc2c8c82e8ef7049b3827247167a43b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_121
+    second: {fileID: 2100000, guid: e5b6abccf03bd7e4696955995940cebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_122
+    second: {fileID: 2100000, guid: 620ac07e6f19cbe4e9f46ebb8912e6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_123
+    second: {fileID: 2100000, guid: c7c137013ed8bd546bb3ffa86a395fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_124
+    second: {fileID: 2100000, guid: 485c603e1828cf54cb2f3049a989e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_125
+    second: {fileID: 2100000, guid: de209ed444d59534394ef47096aa5aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_126
+    second: {fileID: 2100000, guid: b4545abc844259245a42c1aca0b3d88d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_127
+    second: {fileID: 2100000, guid: ad50fbd282ee3474a93f41677bd5a405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_128
+    second: {fileID: 2100000, guid: 016a345aa175a6649a64c8f36e2dae11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_129
+    second: {fileID: 2100000, guid: a02084a9040949349b251347d14419b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_130
+    second: {fileID: 2100000, guid: 6301f0c70a3fc5f41b774976516f749e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_131
+    second: {fileID: 2100000, guid: ee9705b03c754ed4ea1e665c7824574e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_132
+    second: {fileID: 2100000, guid: 6c2eba910be899f40ace1e52e4ebb6b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_133
+    second: {fileID: 2100000, guid: b1fa2ec0d446f9b479c840ace982547e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_134
+    second: {fileID: 2100000, guid: b5a86302c34dbca40a9d71670c73964d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_135
+    second: {fileID: 2100000, guid: 680990fb6cebf8d42b4335f3b186077f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_136
+    second: {fileID: 2100000, guid: 8367c6a961de4974885bef5ec236f4c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_137
+    second: {fileID: 2100000, guid: 2172ad47369f4d644a1db7348d7012fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_138
+    second: {fileID: 2100000, guid: 6d9aafb645cc45c40bb142bfc5d2d41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_139
+    second: {fileID: 2100000, guid: 366a5058c5d335447b897cc40c52c40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_140
+    second: {fileID: 2100000, guid: c1f41712666a25843a66a44862afc19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_141
+    second: {fileID: 2100000, guid: 756bdc301665bc04d8fc548fd61777a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_143
+    second: {fileID: 2100000, guid: 3805e7e925bd8524b9a40af3af49e915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_144
+    second: {fileID: 2100000, guid: eed8b7018d5df294981f1afcb7f237f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_145
+    second: {fileID: 2100000, guid: 2a9d805351ead964abfc383013fc95a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_146
+    second: {fileID: 2100000, guid: 6c76dc0bdb8d4e146a6b50b40a9f6020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_147
+    second: {fileID: 2100000, guid: e7b52c89e22c4e2468b2677d84876a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_148
+    second: {fileID: 2100000, guid: 5f0ad66b17074674fba9988d21768826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_149
+    second: {fileID: 2100000, guid: a55040036f207ca49a83f4459dc56222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_150
+    second: {fileID: 2100000, guid: c97a057efcfcfdc4e9e2b321cf903e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_151
+    second: {fileID: 2100000, guid: c630a8ed8b3519e4cbb0d5334c702470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_152
+    second: {fileID: 2100000, guid: 8e98543fa846fdf49987a2a4081e5aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_153
+    second: {fileID: 2100000, guid: 240282bfd78763b40914cad4aee8aaeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_154
+    second: {fileID: 2100000, guid: 961c493eefc792643bdee2e98bb60691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_155
+    second: {fileID: 2100000, guid: 9df9b39992849b843a8dc15ba7e66ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_156
+    second: {fileID: 2100000, guid: 20e153e0cb03ec04aa474b74d450bbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_157
+    second: {fileID: 2100000, guid: 717bcc9840a40f34190e9e9a5a0544c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_158
+    second: {fileID: 2100000, guid: 07ef4761736f4264ca91ec63940d01a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_159
+    second: {fileID: 2100000, guid: 53b486d208e49ff47afc897415c2586a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_160
+    second: {fileID: 2100000, guid: d50c7151795bacc4c855f7bc5e59fc43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_161
+    second: {fileID: 2100000, guid: 6cee0ac414ef74a4495c95ef32b64c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_162
+    second: {fileID: 2100000, guid: 58df575b32b3979499e33e8e8182687d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_163
+    second: {fileID: 2100000, guid: cdff53660fd9e1d42b722a47669d53d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_164
+    second: {fileID: 2100000, guid: cd1e7b6d071958742b0fe2542da4d4cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_165_SM_203
+    second: {fileID: 2100000, guid: 2a22108c88d8ce84b99ebd7e901f9383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_166
+    second: {fileID: 2100000, guid: 12f20c02495553c4b9145b5b89abed07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_167
+    second: {fileID: 2100000, guid: 3995bc9e955722c4dbd3dd4f17a901e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_168
+    second: {fileID: 2100000, guid: aed681901d09472458243052a70c5fcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_169
+    second: {fileID: 2100000, guid: f77d84bb4332b414580be927e0f6cd93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_170_SM_175
+    second: {fileID: 2100000, guid: 31bfd5d680398b54986421c30ec0183f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_170_SM_203
+    second: {fileID: 2100000, guid: 41f5d97fcca2dd641bcca91605a32888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_170_SM_276
+    second: {fileID: 2100000, guid: d8f9c2f954538b64da742a8e9abd530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_170_SM_343
+    second: {fileID: 2100000, guid: 5cf3db81bee3764429ad31001a6fb82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_170_SM_78
+    second: {fileID: 2100000, guid: 295e5d9eb44d08545a805148d693894e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_171
+    second: {fileID: 2100000, guid: 284652f7bb56ca241b4235b11a48deb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_172
+    second: {fileID: 2100000, guid: 5b8eba205f85aee4ca4b0ab6acde629e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_173
+    second: {fileID: 2100000, guid: e2446214b4eac5743870d15f8a3aba0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_174
+    second: {fileID: 2100000, guid: dd331dc0de9488e4d82702f962ae94f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_175
+    second: {fileID: 2100000, guid: f87c8067fbfb7c9488755755d6fd72bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_176
+    second: {fileID: 2100000, guid: 4a383bb8cd2f0924699690bc22d1437c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_177
+    second: {fileID: 2100000, guid: c08f8c954617f594c87847ff5d46e8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_178
+    second: {fileID: 2100000, guid: 7fe1d1777fd89724897616713e76a1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_179
+    second: {fileID: 2100000, guid: 74465c7a415ead748a84d843e6a19dfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_180
+    second: {fileID: 2100000, guid: 6dc01e3485dc87342b2423155e0b18b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_181
+    second: {fileID: 2100000, guid: bf5fe270da4807b4dad9edaf51566d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_182
+    second: {fileID: 2100000, guid: 6266c6cd1247aaa40958a3ca55186cc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_183
+    second: {fileID: 2100000, guid: 052431feba561c042971449579ddc6e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_184
+    second: {fileID: 2100000, guid: 5d233043d67ddc94cb1151747ad4dc9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_185
+    second: {fileID: 2100000, guid: c3ccc2006f210814986b317ce6558137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_186
+    second: {fileID: 2100000, guid: 0c3468b0fef5dec4dbd8edcd7e945933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_187
+    second: {fileID: 2100000, guid: 2b8e1c0c938bf3c498129a3a70463772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_188
+    second: {fileID: 2100000, guid: 11c19dd853ccb8645ae88ec94448c3f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_189
+    second: {fileID: 2100000, guid: 7bde365ccbcc53e4f9795e067fc0d189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_190
+    second: {fileID: 2100000, guid: e601cecaa98dfa74cb24bbac6b754642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_191
+    second: {fileID: 2100000, guid: f941610f70dd0fa4ba5d9684be7577df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_192
+    second: {fileID: 2100000, guid: 2190ccd3fe285be4a95da24729a6af37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_193
+    second: {fileID: 2100000, guid: fa3bf474faddf7543a623ba08596b066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_194
+    second: {fileID: 2100000, guid: da7adbd012b291f4f97c036cbb77fd8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_195
+    second: {fileID: 2100000, guid: 94b4a943a6e763846919b2ab50a871bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_196
+    second: {fileID: 2100000, guid: 46d8648cf0cb3ef4cab82e9612347906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_197
+    second: {fileID: 2100000, guid: 2338cf78910d3414c8a45d6e83015702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_198
+    second: {fileID: 2100000, guid: ddc8b3815cdea994abc7a4e331cdba6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_199
+    second: {fileID: 2100000, guid: 1632ac0ffe5b81342b1615cf2fcc7421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_200
+    second: {fileID: 2100000, guid: 872285d911ee9a04c89c28725020efa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_201
+    second: {fileID: 2100000, guid: 01b55c8c59cba184084db64c5008ac8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_202
+    second: {fileID: 2100000, guid: 654a2948cd407e74e940d37ba2016cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_203
+    second: {fileID: 2100000, guid: 70d1c7ad3757ee8478764ac4ce31278b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_204_SM_229
+    second: {fileID: 2100000, guid: 3e6fbe917f5d55a45b0bd1a6c05a352f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_205
+    second: {fileID: 2100000, guid: 7e2cb17c4e4c4254ebc6b5b7a971a599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorldGridMaterial
+    second: {fileID: 2100000, guid: 88b97d531edb0b94490643de4e3d967d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
