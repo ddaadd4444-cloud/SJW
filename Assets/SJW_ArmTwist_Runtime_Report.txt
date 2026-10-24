@@ -1,0 +1,172 @@
+SJW ARM TWIST RUNTIME REPORT V4
+================================
+Unity: 2022.3.22f1
+Scene: Assets/screne/00_base.unity
+Playing: True
+
+CONSTRAINT OBJECT: 260919_sjw/Rig/L_Arm/L_UpArmTwist_Aim
+Component: UnityEngine.Animations.Rigging.MultiAimConstraint
+Constrained Object: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist
+
+[ROOT TWIST]
+Path: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist
+Parent: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle
+Local Position: (-0.073294110, 0.000000000, 0.000000000)
+Local Euler: (18.164760000, 359.220800000, 359.056500000)
+Local Quaternion: (0.157900700, -0.005414365, -0.007056512, 0.987415000)
+World Position: (-0.093027550, 1.004676000, -0.014920530)
+World Euler: (288.181000000, 357.627000000, 1.554147000)
+World Quaternion: (-0.586554600, -0.008817255, -0.001161385, 0.809860800)
+World -X: (-0.999841800, -0.008462482, -0.015643930)
+
+DESCENDANTS OF CONSTRAINED OBJECT
+---------------------------------
+
+[Depth 1 : Bip001 LUpArmTwist1]
+Path: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist/Bip001 LUpArmTwist1
+Parent: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist
+Local Position: (-0.054174510, 0.000000000, 0.000000000)
+Local Euler: (355.851600000, -0.000000051, -0.000000027)
+Local Quaternion: (-0.036194140, 0.000000000, 0.000000000, 0.999344800)
+World Position: (-0.147193500, 1.004217000, -0.015768050)
+World Euler: (284.034500000, 357.163400000, 1.999827000)
+World Quaternion: (-0.615482500, -0.008769453, -0.001479689, 0.788100400)
+World -X: (-0.999841800, -0.008462602, -0.015643860)
+Non-Transform Components: <none>
+
+[Depth 2 : Bip001 LUpArmTwist2]
+Path: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist/Bip001 LUpArmTwist1/Bip001 LUpArmTwist2
+Parent: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist/Bip001 LUpArmTwist1
+Local Position: (-0.054174530, 0.000000000, 0.000000000)
+Local Euler: (355.851600000, -0.000000056, 0.000000040)
+Local Quaternion: (-0.036194120, 0.000000000, 0.000000000, 0.999344800)
+World Position: (-0.201359500, 1.003759000, -0.016615570)
+World Euler: (279.889600000, 356.321300000, 2.824222000)
+World Quaternion: (-0.643603900, -0.008710146, -0.001796193, 0.765307300)
+World -X: (-0.999841800, -0.008462488, -0.015643950)
+Non-Transform Components: <none>
+
+CONSTRAINT SERIALIZED DATA
+--------------------------
+m_Weight = 1
+m_Data.m_ConstrainedObject = 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 LUpArmTwist (Transform)
+m_Data.m_SourceObjects.m_Length = 1
+m_Data.m_SourceObjects.m_Item0.transform = 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm (Transform)
+m_Data.m_SourceObjects.m_Item0.weight = 1
+m_Data.m_SourceObjects.m_Item1.transform = <None>
+m_Data.m_SourceObjects.m_Item1.weight = 0
+m_Data.m_SourceObjects.m_Item2.transform = <None>
+m_Data.m_SourceObjects.m_Item2.weight = 0
+m_Data.m_SourceObjects.m_Item3.transform = <None>
+m_Data.m_SourceObjects.m_Item3.weight = 0
+m_Data.m_SourceObjects.m_Item4.transform = <None>
+m_Data.m_SourceObjects.m_Item4.weight = 0
+m_Data.m_SourceObjects.m_Item5.transform = <None>
+m_Data.m_SourceObjects.m_Item5.weight = 0
+m_Data.m_SourceObjects.m_Item6.transform = <None>
+m_Data.m_SourceObjects.m_Item6.weight = 0
+m_Data.m_SourceObjects.m_Item7.transform = <None>
+m_Data.m_SourceObjects.m_Item7.weight = 0
+m_Data.m_Offset = (0.000000000, 0.000000000, 0.000000000)
+m_Data.m_Offset.x = 0
+m_Data.m_Offset.y = 0
+m_Data.m_Offset.z = 0
+m_Data.m_MinLimit = -180
+m_Data.m_MaxLimit = 180
+m_Data.m_AimAxis = X_NEG
+m_Data.m_UpAxis = Y
+m_Data.m_WorldUpType = None
+m_Data.m_WorldUpObject = <None>
+m_Data.m_WorldUpAxis = Y
+m_Data.m_MaintainOffset = True
+m_Data.m_ConstrainedAxes.x = True
+m_Data.m_ConstrainedAxes.y = True
+m_Data.m_ConstrainedAxes.z = True
+
+================================
+
+CONSTRAINT OBJECT: 260919_sjw/Rig/R_Arm/R_UpArmTwist_Aim
+Component: UnityEngine.Animations.Rigging.MultiAimConstraint
+Constrained Object: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist
+
+[ROOT TWIST]
+Path: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist
+Parent: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle
+Local Position: (-0.073294120, 0.000000000, 0.000000000)
+Local Euler: (341.835200000, 0.779166800, 359.056500000)
+Local Quaternion: (-0.157900700, 0.005414365, -0.007056512, 0.987415000)
+World Position: (0.093026850, 1.004676000, -0.014920710)
+World Euler: (71.819050000, 182.372700000, 1.553659000)
+World Quaternion: (-0.001163263, 0.809860900, -0.586554600, -0.008817583)
+World -X: (0.999842000, -0.008459827, -0.015646670)
+
+DESCENDANTS OF CONSTRAINED OBJECT
+---------------------------------
+
+[Depth 1 : Bip001 RUpArmTwist1]
+Path: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist/Bip001 RUpArmTwist1
+Parent: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist
+Local Position: (-0.054174520, 0.000000000, 0.000000000)
+Local Euler: (4.148448000, -0.000000055, -0.000000027)
+Local Quaternion: (0.036194130, 0.000000000, 0.000000000, 0.999344800)
+World Position: (0.147192800, 1.004218000, -0.015768350)
+World Euler: (75.965500000, 182.836100000, 1.999159000)
+World Quaternion: (-0.001481667, 0.788100500, -0.615482500, -0.008769691)
+World -X: (0.999842200, -0.008459778, -0.015646680)
+Non-Transform Components: <none>
+
+[Depth 2 : Bip001 RUpArmTwist2]
+Path: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist/Bip001 RUpArmTwist1/Bip001 RUpArmTwist2
+Parent: 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist/Bip001 RUpArmTwist1
+Local Position: (-0.054174530, -0.000000019, 0.000000000)
+Local Euler: (4.148448000, -0.000000053, 0.000000000)
+Local Quaternion: (0.036194130, 0.000000000, 0.000000000, 0.999344800)
+World Position: (0.201358700, 1.003759000, -0.016615950)
+World Euler: (80.110440000, 183.678000000, 2.823339000)
+World Quaternion: (-0.001798026, 0.765307300, -0.643604000, -0.008710265)
+World -X: (0.999842900, -0.008459838, -0.015646490)
+Non-Transform Components: <none>
+
+CONSTRAINT SERIALIZED DATA
+--------------------------
+m_Weight = 1
+m_Data.m_ConstrainedObject = 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 RUpArmTwist (Transform)
+m_Data.m_SourceObjects.m_Length = 1
+m_Data.m_SourceObjects.m_Item0.transform = 260919_sjw/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm (Transform)
+m_Data.m_SourceObjects.m_Item0.weight = 1
+m_Data.m_SourceObjects.m_Item1.transform = <None>
+m_Data.m_SourceObjects.m_Item1.weight = 0
+m_Data.m_SourceObjects.m_Item2.transform = <None>
+m_Data.m_SourceObjects.m_Item2.weight = 0
+m_Data.m_SourceObjects.m_Item3.transform = <None>
+m_Data.m_SourceObjects.m_Item3.weight = 0
+m_Data.m_SourceObjects.m_Item4.transform = <None>
+m_Data.m_SourceObjects.m_Item4.weight = 0
+m_Data.m_SourceObjects.m_Item5.transform = <None>
+m_Data.m_SourceObjects.m_Item5.weight = 0
+m_Data.m_SourceObjects.m_Item6.transform = <None>
+m_Data.m_SourceObjects.m_Item6.weight = 0
+m_Data.m_SourceObjects.m_Item7.transform = <None>
+m_Data.m_SourceObjects.m_Item7.weight = 0
+m_Data.m_Offset = (0.000000000, 0.000000000, 0.000000000)
+m_Data.m_Offset.x = 0
+m_Data.m_Offset.y = 0
+m_Data.m_Offset.z = 0
+m_Data.m_MinLimit = -180
+m_Data.m_MaxLimit = 180
+m_Data.m_AimAxis = X_NEG
+m_Data.m_UpAxis = Y
+m_Data.m_WorldUpType = None
+m_Data.m_WorldUpObject = <None>
+m_Data.m_WorldUpAxis = Y
+m_Data.m_MaintainOffset = True
+m_Data.m_ConstrainedAxes.x = True
+m_Data.m_ConstrainedAxes.y = True
+m_Data.m_ConstrainedAxes.z = True
+
+================================
+
+INTERPRETATION RULE
+-------------------
+If Twist1/Twist2 are descendants of ROOT TWIST, their world transforms must inherit the root transform unless another animation/constraint writer overrides them.
+This report does not change any object.
