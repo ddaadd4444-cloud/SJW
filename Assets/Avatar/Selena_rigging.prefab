@@ -260,7 +260,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 459598981114622942}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.04583239, y: 0.9987954, z: -0.00080409634, w: -0.017507223}
+  m_LocalRotation: {x: 0.045830242, y: -0.9987955, z: 0.0006784315, w: 0.017512947}
   m_LocalPosition: {x: 0.000000059604602, y: 0.0000001192093, z: 0.06774825}
   m_LocalScale: {x: 1, y: 1, z: 0.99999994}
   m_ConstrainProportionsScale: 0
@@ -279,12 +279,12 @@ LookAtConstraint:
   serializedVersion: 2
   m_Weight: 1
   m_RotationAtRest: {x: 0, y: 0, z: 0}
-  m_RotationOffset: {x: 0, y: 0, z: 0}
+  m_RotationOffset: {x: -76.5, y: 90, z: 0}
   m_Roll: 0
-  m_WorldUpObject: {fileID: 0}
-  m_UseUpObject: 0
-  m_Active: 0
-  m_IsLocked: 0
+  m_WorldUpObject: {fileID: 8210531850975523944}
+  m_UseUpObject: 1
+  m_Active: 1
+  m_IsLocked: 1
   m_Sources:
   - sourceTransform: {fileID: 140263623976026297}
     weight: 1
@@ -1516,6 +1516,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2673900554855348986}
+  - component: {fileID: 4675578021372891229}
   m_Layer: 0
   m_Name: Bip001 L ForeTwist
   m_TagString: Untagged
@@ -1531,7 +1532,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3781844788137025459}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.000099528974, y: 0.0000019051611, z: 0.01913359, w: 0.99981695}
+  m_LocalRotation: {x: -0.000059013462, y: -0.0000009308127, z: 0.019133704, w: 0.9998169}
   m_LocalPosition: {x: -0.16252354, y: 0, z: 0.000000076293944}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1539,6 +1540,26 @@ Transform:
   - {fileID: 7339652760266609063}
   m_Father: {fileID: 498590202716041244}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1183024399 &4675578021372891229
+LookAtConstraint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781844788137025459}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Weight: 1
+  m_RotationAtRest: {x: 0, y: 0, z: 0}
+  m_RotationOffset: {x: -84.3, y: 90, z: 0}
+  m_Roll: 0
+  m_WorldUpObject: {fileID: 0}
+  m_UseUpObject: 0
+  m_Active: 1
+  m_IsLocked: 1
+  m_Sources:
+  - sourceTransform: {fileID: 7877763234124509153}
+    weight: 1
 --- !u!1 &3782900103446961109
 GameObject:
   m_ObjectHideFlags: 0
@@ -2962,6 +2983,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3448279229199913525}
+  - component: {fileID: 3291940065569123785}
   m_Layer: 0
   m_Name: Bip001 LUpArmTwist
   m_TagString: Untagged
@@ -2977,7 +2999,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6701380860731068201}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.15790069, y: -0.005414365, z: -0.0070565124, w: 0.98741496}
+  m_LocalRotation: {x: 0.15782206, y: -0.0054137073, z: -0.007057052, w: 0.9874275}
   m_LocalPosition: {x: -0.07329411, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2985,6 +3007,26 @@ Transform:
   - {fileID: 3827322996914068816}
   m_Father: {fileID: 2312860195685643472}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1183024399 &3291940065569123785
+LookAtConstraint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6701380860731068201}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Weight: 1
+  m_RotationAtRest: {x: 0, y: 0, z: 0}
+  m_RotationOffset: {x: 124.7, y: 90, z: 0}
+  m_Roll: 0
+  m_WorldUpObject: {fileID: 2656582292439787468}
+  m_UseUpObject: 1
+  m_Active: 1
+  m_IsLocked: 1
+  m_Sources:
+  - sourceTransform: {fileID: 3617122276938067457}
+    weight: 1
 --- !u!1 &6704599848491451610
 GameObject:
   m_ObjectHideFlags: 0
