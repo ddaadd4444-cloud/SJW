@@ -75,6 +75,18 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.timeline": {
+      "version": "1.7.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "jp.lilxyzw.liltoon": {
       "version": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#72fc09625b24c9a750591c286e9192512a5177a1",
       "depth": 0,
