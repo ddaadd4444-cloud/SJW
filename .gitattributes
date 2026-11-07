@@ -9,3 +9,5 @@
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.exr filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
+Assets/Avatar/fbx/V_HinaSuzuki.anim filter=lfs diff=lfs merge=lfs -text
+Assets/Avatar/fbx/V_HimeTanaka.anim filter=lfs diff=lfs merge=lfs -text
